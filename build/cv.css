@@ -1,0 +1,26 @@
+body{
+    width: 90%;
+    margin: 0 auto;
+    background: #fff;
+    padding-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-transform: uppercase;
+}
+header{
+    text-align: center;
+}
+section h1{
+    background: rgb(224, 218, 218);
+    padding: 10px 20px;
+}
+section{
+    margin-bottom: 10px;
+}
+.ital{
+    font-style: italic;
+}
+section li, section p{
+    padding-left: 20px;
+}
